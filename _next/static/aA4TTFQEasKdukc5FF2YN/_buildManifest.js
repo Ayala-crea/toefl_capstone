@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/toefl_capstone//_next/:path+",
+        "destination": "/toefl_capstone/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
