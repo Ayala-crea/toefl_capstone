@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[80468,["/toefl_capstone/_next/static/chunks/1-vep_p3n7o32.js","/toefl_capstone/_next/static/chunks/0wjnvv9r3oqiq.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"58rYMd2SKQ0FaZkvW__pf"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TA0uITVFbEogdHwYCsGza"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/student/exam/listening;307;"}
